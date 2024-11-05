@@ -26,7 +26,7 @@ Foi criada uma interface "Comportamento" que equivale a Interface Estratégia qu
 
 ### Facade
 * **Objetivo:** Simplificar a interface de um subsistema.
-* **Implementação:** Foi criada uma classe "Facade" com o objetivo de migrar clientes pelo nome e CEP, onde simplifca a interface para consumir os serviços de CEP e atualização de cliente,
+* **Implementação:** Foi criada uma classe "Facade" com o objetivo de migrar clientes pelo nome e CEP, onde simplifca a interface para consumir os serviços de CEP e atualização de cliente de dois subsistemas "subsistema1.crm" e "subsistema2.cep",
    permitindo uma comunicação mais limpa com outros serviços.
 
 ## Referências

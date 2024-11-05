@@ -7,7 +7,10 @@ package edu.exemplos.gof.strategy;
  * Isso significa que você pode escolher o algoritmo a ser usado em tempo de execução, sem ter que modificar o 
  * código cliente.
  * Padrão de Projeto Strategy: Uma Abordagem Flexível para Algoritmos
-O padrão de projeto Strategy (Estratégia em português) é um dos padrões de projeto comportamentais mais utilizados em programação orientada a objetos. Ele permite que você defina uma família de algoritmos, encapsule cada um deles e os torne intercambiáveis. Isso significa que você pode escolher o algoritmo a ser usado em tempo de execução, sem ter que modificar o código cliente.
+O padrão de projeto Strategy (Estratégia em português) é um dos padrões de projeto comportamentais mais utilizados em 
+programação orientada a objetos. Ele permite que você defina uma família de algoritmos, encapsule cada um deles e 
+os torne intercambiáveis. Isso significa que você pode escolher o algoritmo a ser usado em tempo de execução, 
+sem ter que modificar o código cliente.
 
 Por que usar o padrão Strategy?
 
